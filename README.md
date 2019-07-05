@@ -1,0 +1,2 @@
+# schooltech
+Softtware para colegios 
