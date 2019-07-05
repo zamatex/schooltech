@@ -1,2 +1,2 @@
 # schooltech
-Softtware para colegios 
+Software para colegios 
